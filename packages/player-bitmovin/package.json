@@ -1,5 +1,5 @@
 {
-  "name": "@vualto-dojo/player-bitmovin",
+  "name": "player-bitmovin",
   "version": "0.0.3-alpha.0",
   "description": "",
   "main": "index.js",
@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "gitHead": "8abb5a37463a6a95097045ed2dc71589560c39f4"
+  "gitHead": "1814dd7f9b072332039e71327ef2a564e7495d3e"
 }
