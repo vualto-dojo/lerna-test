@@ -1,0 +1,8 @@
+0 silly argv { _: [ 'add' ],
+0 silly argv   globs: [ 'boostrap' ],
+0 silly argv   lernaVersion: '3.16.1',
+0 silly argv   '$0': 'lerna',
+0 silly argv   pkg: '../player-corelerna' }
+1 notice cli v3.16.1
+2 verbose rootPath /Users/stefanonepa/dev/__sandbox/lerna-test
+3 error
