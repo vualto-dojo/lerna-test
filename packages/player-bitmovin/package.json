@@ -1,6 +1,6 @@
 {
   "name": "@vualto-dojo/player-bitmovin",
-  "version": "1.0.0",
+  "version": "0.0.1-alpha.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,5 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {}
+  "license": "ISC"
 }
