@@ -1,5 +1,5 @@
 {
-  "name": "player-bitmovin",
+  "name": "@vualto-dojo/player-bitmovin",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
