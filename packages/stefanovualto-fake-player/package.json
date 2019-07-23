@@ -1,6 +1,6 @@
 {
   "name": "stefanovualto-fake-player",
-  "version": "0.0.6-alpha.0",
+  "version": "0.0.7-alpha.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "MIT",
   "gitHead": "1814dd7f9b072332039e71327ef2a564e7495d3e",
   "dependencies": {
-    "stefanovualto-fake-player-core": "^0.0.6-alpha.0"
+    "stefanovualto-fake-player-core": "^0.0.7-alpha.0"
   }
 }
