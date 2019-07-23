@@ -8,5 +8,9 @@
   },
   "devDependencies": {
     "lerna": "^3.16.1"
+  },
+  "dependencies": {
+    "stefanovualto-fake-player": "file:packages/stefanovualto-fake-player",
+    "stefanovualto-fake-player-core": "file:packages/stefanovualto-fake-player-core"
   }
 }

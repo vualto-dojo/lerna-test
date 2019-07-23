@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "",
   "license": "MIT",
-  "gitHead": "1814dd7f9b072332039e71327ef2a564e7495d3e"
+  "gitHead": "1814dd7f9b072332039e71327ef2a564e7495d3e",
+  "dependencies": {
+    "stefanovualto-fake-player-core": "^0.0.6-alpha.0"
+  }
 }

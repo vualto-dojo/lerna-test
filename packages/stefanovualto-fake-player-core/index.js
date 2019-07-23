@@ -1,3 +1,3 @@
-import ee from "events";
+let ee = require("events");
 console.log("Hello!");
-export default ee;
+exports.modules = ee;
