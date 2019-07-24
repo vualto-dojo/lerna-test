@@ -1,6 +1,6 @@
 let ee = require("stefanovualto-fake-player-core");
 
-console.log("Hello!");
+console.log("Hello there!");
 
 let titi = ee;
 
